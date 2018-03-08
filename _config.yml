@@ -1,0 +1,8 @@
+title: Data Science Essentials
+description: Course files for the Microsoft Data Science Essentials Course
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
